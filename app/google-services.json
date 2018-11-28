@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "73681697487",
+    "firebase_url": "https://classdemofirebasedb.firebaseio.com",
+    "project_id": "classdemofirebasedb",
+    "storage_bucket": "classdemofirebasedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73681697487:android:3ee4acb684a01659",
+        "android_client_info": {
+          "package_name": "com.example.chatiwat.classdemofirebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73681697487-l3o8832hl65mnt1isviri3l71i839m6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatiwat.classdemofirebasedb",
+            "certificate_hash": "305182a371b218c90438e9248748c20ba6e2d6b6"
+          }
+        },
+        {
+          "client_id": "73681697487-phd5ietko3difui557ivg17m8vtv0ri2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ii0fmtpzfKh2S4K4iJgJ7hevq1vB3-4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73681697487-phd5ietko3difui557ivg17m8vtv0ri2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
